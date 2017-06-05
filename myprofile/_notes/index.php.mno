@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rs_content" value="name:contentId;datatype:int,name:metaTitle;datatype:string,name:metaKeywords;datatype:blob,name:metaDescription;datatype:blob,name:image;datatype:string,name:title;datatype:string,name:detail;datatype:blob,name:lastupdate;datatype:datetime" />
-</info>
